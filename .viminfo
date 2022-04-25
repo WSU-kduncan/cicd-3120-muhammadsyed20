@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1650903772,,"wq"
+|2,0,1650906912,,"wq"
 :q
 |2,0,1650865259,,"q"
 :21
@@ -82,40 +82,56 @@ $
 |3,0,36,0,1,0,1650699227,"n"
 
 # File marks:
-'0  12  104  ~/cicd-3120-muhammadsyed20/html/index.html
-|4,48,12,104,1650903772,"~/cicd-3120-muhammadsyed20/html/index.html"
-'1  1  0  ~/3120-python/test/Dockerfile/EXPOSE 80
-|4,49,1,0,1650901013,"~/3120-python/test/Dockerfile/EXPOSE 80"
-'2  12  79  ~/cicd-3120-muhammadsyed20/html/index.html
-|4,50,12,79,1650870905,"~/cicd-3120-muhammadsyed20/html/index.html"
-'3  12  6  ~/website/index.html
-|4,51,12,6,1650868309,"~/website/index.html"
-'4  10  0  ~/3120-python/test/index.html
-|4,52,10,0,1650864912,"~/3120-python/test/index.html"
-'5  9  0  ~/3120-python/dockerfile
-|4,53,9,0,1650863703,"~/3120-python/dockerfile"
-'6  1  0  ~/3120-python/README.md
-|4,54,1,0,1650699973,"~/3120-python/README.md"
-'7  1  0  /test/index.html
-|4,55,1,0,1650699320,"/test/index.html"
-'8  8  25  ~/3120-python/dockerfile
-|4,56,8,25,1650697631,"~/3120-python/dockerfile"
+'0  15  81  ~/cicd-3120-muhammadsyed20/README.md
+|4,48,15,81,1650906912,"~/cicd-3120-muhammadsyed20/README.md"
+'1  12  104  ~/cicd-3120-muhammadsyed20/html/index.html
+|4,49,12,104,1650903772,"~/cicd-3120-muhammadsyed20/html/index.html"
+'2  1  0  ~/3120-python/test/Dockerfile/EXPOSE 80
+|4,50,1,0,1650901013,"~/3120-python/test/Dockerfile/EXPOSE 80"
+'3  12  79  ~/cicd-3120-muhammadsyed20/html/index.html
+|4,51,12,79,1650870905,"~/cicd-3120-muhammadsyed20/html/index.html"
+'4  12  6  ~/website/index.html
+|4,52,12,6,1650868309,"~/website/index.html"
+'5  10  0  ~/3120-python/test/index.html
+|4,53,10,0,1650864912,"~/3120-python/test/index.html"
+'6  9  0  ~/3120-python/dockerfile
+|4,54,9,0,1650863703,"~/3120-python/dockerfile"
+'7  1  0  ~/3120-python/README.md
+|4,55,1,0,1650699973,"~/3120-python/README.md"
+'8  1  0  /test/index.html
+|4,56,1,0,1650699320,"/test/index.html"
 '9  8  25  ~/3120-python/dockerfile
 |4,57,8,25,1650697631,"~/3120-python/dockerfile"
 
 # Jumplist (newest first):
+-'  15  81  ~/cicd-3120-muhammadsyed20/README.md
+|4,39,15,81,1650906912,"~/cicd-3120-muhammadsyed20/README.md"
+-'  1  0  ~/cicd-3120-muhammadsyed20/README.md
+|4,39,1,0,1650906900,"~/cicd-3120-muhammadsyed20/README.md"
+-'  12  104  ~/cicd-3120-muhammadsyed20/html/index.html
+|4,39,12,104,1650903772,"~/cicd-3120-muhammadsyed20/html/index.html"
 -'  12  104  ~/cicd-3120-muhammadsyed20/html/index.html
 |4,39,12,104,1650903772,"~/cicd-3120-muhammadsyed20/html/index.html"
 -'  1  0  ~/3120-python/test/Dockerfile/EXPOSE 80
 |4,39,1,0,1650901013,"~/3120-python/test/Dockerfile/EXPOSE 80"
 -'  1  0  ~/3120-python/test/Dockerfile/EXPOSE 80
 |4,39,1,0,1650901013,"~/3120-python/test/Dockerfile/EXPOSE 80"
+-'  1  0  ~/3120-python/test/Dockerfile/EXPOSE 80
+|4,39,1,0,1650901013,"~/3120-python/test/Dockerfile/EXPOSE 80"
+-'  1  0  ~/3120-python/test/Dockerfile/EXPOSE 80
+|4,39,1,0,1650901013,"~/3120-python/test/Dockerfile/EXPOSE 80"
+-'  12  79  ~/cicd-3120-muhammadsyed20/html/index.html
+|4,39,12,79,1650870905,"~/cicd-3120-muhammadsyed20/html/index.html"
 -'  12  79  ~/cicd-3120-muhammadsyed20/html/index.html
 |4,39,12,79,1650870905,"~/cicd-3120-muhammadsyed20/html/index.html"
 -'  1  0  ~/cicd-3120-muhammadsyed20/html/index.html
 |4,39,1,0,1650870590,"~/cicd-3120-muhammadsyed20/html/index.html"
 -'  1  0  ~/cicd-3120-muhammadsyed20/html/index.html
 |4,39,1,0,1650870590,"~/cicd-3120-muhammadsyed20/html/index.html"
+-'  1  0  ~/cicd-3120-muhammadsyed20/html/index.html
+|4,39,1,0,1650870590,"~/cicd-3120-muhammadsyed20/html/index.html"
+-'  1  0  ~/cicd-3120-muhammadsyed20/html/index.html
+|4,39,1,0,1650870590,"~/cicd-3120-muhammadsyed20/html/index.html"
 -'  12  6  ~/website/index.html
 |4,39,12,6,1650868309,"~/website/index.html"
 -'  12  6  ~/website/index.html
@@ -124,6 +140,22 @@ $
 |4,39,12,6,1650868309,"~/website/index.html"
 -'  12  6  ~/website/index.html
 |4,39,12,6,1650868309,"~/website/index.html"
+-'  12  6  ~/website/index.html
+|4,39,12,6,1650868309,"~/website/index.html"
+-'  12  6  ~/website/index.html
+|4,39,12,6,1650868309,"~/website/index.html"
+-'  12  6  ~/website/index.html
+|4,39,12,6,1650868309,"~/website/index.html"
+-'  12  6  ~/website/index.html
+|4,39,12,6,1650868309,"~/website/index.html"
+-'  1  0  ~/website/index.html
+|4,39,1,0,1650868060,"~/website/index.html"
+-'  1  0  ~/website/index.html
+|4,39,1,0,1650868060,"~/website/index.html"
+-'  1  0  ~/website/index.html
+|4,39,1,0,1650868060,"~/website/index.html"
+-'  1  0  ~/website/index.html
+|4,39,1,0,1650868060,"~/website/index.html"
 -'  1  0  ~/website/index.html
 |4,39,1,0,1650868060,"~/website/index.html"
 -'  1  0  ~/website/index.html
@@ -152,6 +184,46 @@ $
 |4,39,10,0,1650864912,"~/3120-python/test/index.html"
 -'  10  0  ~/3120-python/test/index.html
 |4,39,10,0,1650864912,"~/3120-python/test/index.html"
+-'  10  0  ~/3120-python/test/index.html
+|4,39,10,0,1650864912,"~/3120-python/test/index.html"
+-'  10  0  ~/3120-python/test/index.html
+|4,39,10,0,1650864912,"~/3120-python/test/index.html"
+-'  10  0  ~/3120-python/test/index.html
+|4,39,10,0,1650864912,"~/3120-python/test/index.html"
+-'  10  0  ~/3120-python/test/index.html
+|4,39,10,0,1650864912,"~/3120-python/test/index.html"
+-'  10  0  ~/3120-python/test/index.html
+|4,39,10,0,1650864912,"~/3120-python/test/index.html"
+-'  10  0  ~/3120-python/test/index.html
+|4,39,10,0,1650864912,"~/3120-python/test/index.html"
+-'  10  0  ~/3120-python/test/index.html
+|4,39,10,0,1650864912,"~/3120-python/test/index.html"
+-'  10  0  ~/3120-python/test/index.html
+|4,39,10,0,1650864912,"~/3120-python/test/index.html"
+-'  10  0  ~/3120-python/test/index.html
+|4,39,10,0,1650864912,"~/3120-python/test/index.html"
+-'  10  0  ~/3120-python/test/index.html
+|4,39,10,0,1650864912,"~/3120-python/test/index.html"
+-'  1  0  ~/3120-python/test/index.html
+|4,39,1,0,1650864773,"~/3120-python/test/index.html"
+-'  1  0  ~/3120-python/test/index.html
+|4,39,1,0,1650864773,"~/3120-python/test/index.html"
+-'  1  0  ~/3120-python/test/index.html
+|4,39,1,0,1650864773,"~/3120-python/test/index.html"
+-'  1  0  ~/3120-python/test/index.html
+|4,39,1,0,1650864773,"~/3120-python/test/index.html"
+-'  1  0  ~/3120-python/test/index.html
+|4,39,1,0,1650864773,"~/3120-python/test/index.html"
+-'  1  0  ~/3120-python/test/index.html
+|4,39,1,0,1650864773,"~/3120-python/test/index.html"
+-'  1  0  ~/3120-python/test/index.html
+|4,39,1,0,1650864773,"~/3120-python/test/index.html"
+-'  1  0  ~/3120-python/test/index.html
+|4,39,1,0,1650864773,"~/3120-python/test/index.html"
+-'  1  0  ~/3120-python/test/index.html
+|4,39,1,0,1650864773,"~/3120-python/test/index.html"
+-'  1  0  ~/3120-python/test/index.html
+|4,39,1,0,1650864773,"~/3120-python/test/index.html"
 -'  1  0  ~/3120-python/test/index.html
 |4,39,1,0,1650864773,"~/3120-python/test/index.html"
 -'  1  0  ~/3120-python/test/index.html
@@ -212,100 +284,35 @@ $
 |4,39,9,0,1650863703,"~/3120-python/dockerfile"
 -'  9  0  ~/3120-python/dockerfile
 |4,39,9,0,1650863703,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  8  25  ~/3120-python/dockerfile
-|4,39,8,25,1650699987,"~/3120-python/dockerfile"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
--'  1  0  ~/3120-python/README.md
-|4,39,1,0,1650699973,"~/3120-python/README.md"
+-'  9  0  ~/3120-python/dockerfile
+|4,39,9,0,1650863703,"~/3120-python/dockerfile"
+-'  9  0  ~/3120-python/dockerfile
+|4,39,9,0,1650863703,"~/3120-python/dockerfile"
+-'  9  0  ~/3120-python/dockerfile
+|4,39,9,0,1650863703,"~/3120-python/dockerfile"
+-'  9  0  ~/3120-python/dockerfile
+|4,39,9,0,1650863703,"~/3120-python/dockerfile"
+-'  9  0  ~/3120-python/dockerfile
+|4,39,9,0,1650863703,"~/3120-python/dockerfile"
+-'  9  0  ~/3120-python/dockerfile
+|4,39,9,0,1650863703,"~/3120-python/dockerfile"
+-'  9  0  ~/3120-python/dockerfile
+|4,39,9,0,1650863703,"~/3120-python/dockerfile"
+-'  9  0  ~/3120-python/dockerfile
+|4,39,9,0,1650863703,"~/3120-python/dockerfile"
+-'  9  0  ~/3120-python/dockerfile
+|4,39,9,0,1650863703,"~/3120-python/dockerfile"
+-'  9  0  ~/3120-python/dockerfile
+|4,39,9,0,1650863703,"~/3120-python/dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/cicd-3120-muhammadsyed20/README.md
+	*	1650906910	0
+	"	15	81
+	^	15	82
+	.	15	12
+	+	15	12
 
 > ~/cicd-3120-muhammadsyed20/html/index.html
 	*	1650903771	0
