@@ -812,3 +812,148 @@ traceroute hostname
 ssh -i ceg3120-key.pem ubuntu@54.91.187.188
 ssh -i ceg3120-key.pem ec2-user@18.213.30.84
 ssh -i ceg3120-key.pem ubuntu@18.213.30.84
+git clone ubuntu@ceg2130:spring/project2
+git clone ubuntu@ceg3120:spring/project2
+git clone ubuntu@ceg3120:spring/project1.git
+git clone ubuntu@ceg3120:spring/project2
+git commit -m pushing project 2
+git commit -m pushing project2
+git commit -m pushing "pushing project 2"
+git push
+statis
+status
+ssh -i ceg3120-key.pem ubuntu@18.213.30.84
+ssh -i ceg3120-key.pem ubuntu@54.157.254.152
+ssh -i ceg3120-key.pem ubuntu@3.227.190.244
+ssh -i ceg3120-key.pem ubuntu@54.157.254.152
+ssh -i ceg3120-key.pem ubuntu@3.227.190.244
+cd ~/.ssh
+ls
+cd
+git commit "adding new files"
+git commit -m "adding new files"
+git add .bash_aliases
+git add .bash_history 
+git add .bash_logout 
+git add .bashrc 
+git add .cache/
+git status
+git add to
+git add spring2021-ceg2350-muhammadsyed20/
+git add project1/
+git add ceg3120-muhammadsyed20/
+git status
+git add .ceg2350-aws-vm.peg.swp
+git add .ceg2350-aws-vm.peg.swn
+git add .ceg2350-aws-vm.pem.swn
+git add .ceg2350-aws-vm.pem.swo
+git add .ceg2350-aws-vm.pem.swp
+git add .gitconfig 
+git add .landscape/
+git add .local
+git add .motd_shown 
+git add .pr
+git add .profile 
+git add .python_history 
+git add .ssh
+git add .ssh/
+git add .sudo_as_admin_successful 
+git add .viminfo 
+git add api-projects/
+git add ceg2350-key.pem 
+git add ceg3120-key-----BEGIN 
+git add ceg3120-key.pem
+git status
+git commit -m "adding new files"
+git push
+git push mIN
+git push main
+git push class-demo
+git push origin class-demo
+git push origin main
+git push
+git remote add muhammadsyed20 git@github.com:WSU-kduncan/ceg3120-muhammadsyed20.git
+git push muhammadsyed20
+ssh ceg3120 3120
+ssh ceg3120
+ceg3120 
+cd ceg3120 
+ls
+ceg3120-key.pem
+git ceg3120-key.pem
+ssh -i ceg3120-key.pem
+ssh -i ceg3120-key.pem ubuntu@3.227.190.244
+ssh -i ceg3120-key.pem ubuntu@172.27.230.243
+ls
+ssh -i ceg3120-muhammadsyed20 ubuntu@3.227.190.244
+ssh -i ceg3120-key-----BEGIN ubuntu@3.227.190.244
+ssh -i spring2021-ceg2350-muhammadsyed20/ ubuntu@3.227.190.244
+ssh -i ceg3120-key.pem ubuntu@3.227.190.244
+service --status-all
+ssh -i ceg3120-key.pem ubuntu@3.227.190.244
+ssh -i ceg3120-key.pem ubuntu@18.213.30.84
+ssh -i ceg3120-key.pem ubuntu@54.157.254.152
+ssh -i ceg3120-key.pem ubuntu@3.227.190.244
+vim dockerfile
+docker build .
+vim dockerfile
+docker build .
+mkdir 3120-python
+ls
+cd 3120-python/
+vim dockerfile
+exit
+ls
+vim dockerfile 
+cd 3120-python/
+vim dockerfile
+docker build .
+docker image
+docker run b3cc8daa7e73
+docker run --name repo alpine/git clone \ https://github.com/docker/getting-started.git coker cp repo:/git/gitting-started/ .
+cd getting-started 
+docker run --name repo alpine/git clone 
+docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+vim dockerfile 
+docker build .
+docker image
+docker images
+docker run 1e98478423f7
+cd
+ls
+git bash
+Git bash
+git bash
+ls -al ~/.ssh
+git@github.com:WSU-kduncan/cicd-3120-muhammadsyed20.git
+echo "# cicd-3120-muhammadsyed20" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:WSU-kduncan/cicd-3120-muhammadsyed20.git
+git push -u origin main
+ls
+git remote add origin git@github.com:WSU-kduncan/cicd-3120-muhammadsyed20.git.
+git branch -M main
+git push -u origin main
+cd 3120-python/
+mkrid website
+mkdir website
+ls
+docker run -v <host-path>:<container-path>
+wsl.exe -l -v
+wsl.exe --set-default-version 2
+wsl --set-default <ubuntu>
+wsl --set-default <Ubuntu>
+wsl --set-default ubuntu
+sudo wsl --set-default ubuntu
+wsl
+sudo apt install wsl
+sudo wsl --set-default ubuntu
+cd website
+touch/website/Dockerfile
+touch /website/Dockerfile
+touch Dockerfile
+ls
+vim /test/index.html
