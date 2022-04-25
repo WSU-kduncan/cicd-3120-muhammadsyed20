@@ -957,3 +957,131 @@ touch /website/Dockerfile
 touch Dockerfile
 ls
 vim /test/index.html
+ls
+cd 3120-python/
+ls
+RUN apt-get update 
+RUN apt-get install –y apache2 
+RUN apt-get update 
+echo "$PATH"
+printf "%s\n" "$PATH"
+export PATH=$PATH:/bin:/usr/local/bin
+which ls
+which gcc
+which date
+whereis gcc
+type -a time
+command -V time
+ls -l /bin/ls
+ls -l ~/bin/toc
+stat /bin/ls
+chmod +x filename
+chmod +x RUN
+LS
+ls
+vim README.md
+ls
+vim dockerfile 
+cd ..
+git clone https://github.com/prakhar1989/docker-curriculum.git
+ls
+cd docker-curriculum/
+ls
+cd
+sudo apt install apache2
+ls
+cd 3120-python/
+ls
+mkdir test
+cd tst
+cd test/
+mkdir Dockerfile
+vim index.html
+vi Dockerfile/
+docker build /test/ -t webserver:v1
+ls
+cd
+cd 31
+cd 3120-python/
+docker build /test/ -t webserver:v1
+docker build test -t webserver:v1
+ls
+cd test/
+cat Dockerfile
+rm Dockerfile/
+rm Dockerfile/ Dockerfile/
+rm -d D
+rm -d Dockerfile/
+rmdir Dockerfile/
+cd D
+cd Dockerfile/
+ls
+cd
+docker ps -a
+docker run -d -P --name web nginx
+docker port web
+docker-machine ip default
+docker-machine init
+docker swarm init
+docker-machine join
+docker swarm join
+brew install docker-machine
+sudo brew install docker-machine
+brew install docker-machine
+sudo install docker-machine
+sudo apt-get update
+sudo apt-get install virtualbox-5.2
+docker-machine create --driver virtualbox myvm1
+curl -L https://github.com/docker/machine/releases/download/v0.16.0/docker-machine-`uname -s`-`uname -m` >/tmp/docker-machine && chmod +x /tmp/docker-machine && sudo cp /tmp/docker-machine /usr/local/bin/docker-machine
+docker-machine ip default
+cat COMMAND.1
+docker container run --name nginx -p 8080:80 nginx:latest
+ls
+docker build --tag php-mysqli-apache .
+docker login
+docker tag php-mysqli-apache muhammadsyed/php-mysqli-apache:1.3
+docker push muhammadsyed/php-mysquil-apache:1.3
+docker push muhammadsyed/php-mysqil-apache:1.3
+docker push muhammadsyed/php-mysqli-apache:1.3
+docker pull muhammadsyed/php-mysqli-apache
+docker run -d muhammadsyed/php-mysqli-apache
+docker run -d muhammadsyed/php-mysqli-apache:1.3
+docker container ls
+mkdir website
+cd website/
+vim index.html
+ls
+docker login -u muhammadsyed
+docker push
+docker build -t muhammadsyed/site:2.0
+docker build -t muhammadsyed/site:1.0 .
+docker build -t muhammadsyed/site2:1.0 .
+docker image
+docker push muhammadsyed/site2:1.0
+cd
+cd cicd-3120-pattonsgirl/
+ls
+mkdir cicd-3120-muhammadsyed20
+cd cicd-3120-muhammadsyed20
+ls
+mkdir .github
+cd .
+cd .github/
+mkdir workflows
+cd workflows/
+cd ..
+mkdir html
+ls
+cd 
+cd cicd-3120-muhammadsyed20
+cd html/
+vim index.html
+git status
+git commit -am "aded text for demo"
+cd ..
+mkdir website
+mkdir
+ls
+git commit -am "adding website"
+git commit -a "adding website"
+git push
